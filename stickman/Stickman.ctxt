@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stickman
+comment0.text=\n\ This\ is\ a\ stick\ man.\ Make\ him\ run\ and\ jump.\n\ \n\ @author\ \n\ @version\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveLeftIfNoise()
+comment3.params=
+comment3.target=void\ gameOver()
+comment4.params=
+comment4.target=void\ checkGameOver()
+numComments=5
